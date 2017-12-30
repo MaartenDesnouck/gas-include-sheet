@@ -1,0 +1,32 @@
+{
+  "name": "sheet",
+  "version": "1.0.0",
+  "description": "A Google Sheet library for Gas",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/maartendesnouck/gas-include-sheet.git"
+  },
+  "keywords": [
+      "google-apps-script",
+      "googleappsscript",
+      "gas",
+      "export",
+      "import",
+      "download",
+      "upload",
+      "Google",
+      "apps",
+      "script",
+      "CLI",
+      "drive"
+  ],
+  "author": "Maarten Desnouck (maarten.desnouck@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/maartendesnouck/gas-include-sheet/issues"
+  },
+  "homepage": "https://github.com/maartendesnouck/gas-include-sheet#readme",
+  "dependencies": {
+      "time" : "1.0.0"
+  }
+}
