@@ -23,5 +23,5 @@ sheet_setBackgroundColor(row, column, sheet, backgroundcolor);
 ```
 Set the font color of a given cell in a given sheet
 ```
-function setFontColor(row, column, sheet, fontcolor)
+sheet_setFontColor(row, column, sheet, fontcolor);
 ```
