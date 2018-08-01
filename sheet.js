@@ -20,7 +20,7 @@ function getValue(row, column, sheet) {
 }
 
 /**
- * Set the value off a given cell in a given sheet
+ * Set the value of a given cell in a given sheet
  *
  * @param {number} row of cell
  * @param {number} column of cell
