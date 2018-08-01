@@ -2,6 +2,7 @@
 
 ```
 $ npm i -g google-apps-script
+$ gas new myProject && cd myProject
 $ gas i -s sheet
 $ gas push
 ```
