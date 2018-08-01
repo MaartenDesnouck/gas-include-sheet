@@ -6,7 +6,14 @@ $ gas new myProject && cd myProject
 $ gas i -s sheet
 $ gas push
 ```
-## Functions
+## Usage
+
+Start by openinging your sheet by id
+```
+var MySpreadSheet = SpreadsheetApp.openById('my-spreadsheet-id-goes-here');
+var Sheet1 = MySpreadSheet.getSheets()[0];
+```
+### Functions
 
 Retrieve the value from a given cell in a given sheet
 ```
